@@ -39,7 +39,7 @@ Leveraged geopandas to create an insightful visual representation of billionaire
 
 8. Logistic Regression Model:
 
-Implemented a sophisticated Logistic Regression model to classify billionaires based on their self-made status. This predictive modeling element added depth to the analysis by introducing a quantitative approach to categorizing billionaires, enriching the overall project with predictive insights.
+Implemented a Logistic Regression model to classify billionaires based on their self-made status. This predictive modeling element added depth to the analysis by introducing a quantitative approach to categorizing billionaires, enriching the overall project with predictive insights.
 
 ## lesson learned
 
